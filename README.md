@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Nisha 👋
 
-<!--
-**aqsa-hasan/aqsa-hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Front-end & Node.js Developer** | Passionate about building great web apps!
 
-Here are some ideas to get you started:
+💡 **Tech Enthusiast** || 📱 **Website Dev**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/aqsa-hasan" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 8px;">
+  </a>
+  <a href="https://linkedin.com/in/aqsa-hasan" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 8px;">
+  </a>
+  <a href="mailto:aqsa.turki786@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 8px;">
+  </a>
+</p>
+
