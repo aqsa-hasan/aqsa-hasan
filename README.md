@@ -1,4 +1,4 @@
-# Hi there, I'm Nisha 👋
+# Hi there, I'm Aqsa 👋
 
 🚀 **Front-end & Node.js Developer** | Passionate about building great web apps!
 
